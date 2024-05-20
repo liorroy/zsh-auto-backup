@@ -69,15 +69,8 @@ Follow these steps to automatically sync your `.zshrc` with the remote repositor
     Notes: Remember to select `UserAgents` in the top left button of the LaunchControl application.
 7. **Verify that our scripts are working properly**
     - Change `~/.zshrc` or `~/.zsh/` and verify that our changes are committed and pushed automatically to the remote repository.
-     [![Watch the demo video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/IF5n5b4Fyfw)
 
-    
-
-
-    [![Watch the video](https://img.youtube.com/vi/IF5n5b4Fyfw?si=VLXM_BUs7PNkHwMo/maxresdefault.jpg)](https://youtu.be/IF5n5b4Fyfw)
-    
-         [![Watch the demo video](https://youtu.be/IF5n5b4Fyfw?si=urXWTbIN2ewZIdO6)
-
+      [![Watch the demo video](https://img.youtube.com/vi/IF5n5b4Fyfw/hqdefault.jpg)](https://youtu.be/IF5n5b4Fyfw)
 
 ## Tokens, Credentials, Secrets
 - You should store your private tokens, secrets in other files, such as `secrets.sh`, and load them by adding `source secrets.sh` into `.zshrc` file. Even though our repository is private, but you might accidentally publish it or in case Github is hacked, your credentials won't be leaked.
