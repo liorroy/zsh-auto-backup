@@ -1,4 +1,4 @@
-# ZSH Run Configuration Auto Sync
+# ZSH configuration file (.zshrc) Auto backup to Git 
 This repository will help you to utilize `fswatch` and `launchd` in order to get your ZSH configuration file (.zshrc) synced with a git remote repository automatically.
 
 ## Quick Start
