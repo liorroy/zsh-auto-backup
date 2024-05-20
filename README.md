@@ -25,7 +25,7 @@ Follow these steps to automatically sync your `.zshrc` with the remote repositor
     1. You should clone this repository and copy 3 files into `zsh-backup` folder:
         - [commit_changes.sh](./commit_changes.sh)
         - [sync_zshrc.sh](./sync_zshrc.sh)
-        - [com.imbaggaarm.auto-sync-zshrc.plist](./com.imbaggaarm.auto-sync-zshrc.plist)
+        - [com.Study.auto-sync-zshrc.plist](./com.Study.auto-sync-zshrc.plist)
     2. Make scripts executable:
         ```shell
         chmod +x commit_changes.sh && chmod +x sync_zshrc.sh
