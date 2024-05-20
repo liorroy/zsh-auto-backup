@@ -71,6 +71,12 @@ Follow these steps to automatically sync your `.zshrc` with the remote repositor
     - Change `~/.zshrc` or `~/.zsh/` and verify that our changes are committed and pushed automatically to the remote repository:
 
       [![Watch the demo video](https://img.youtube.com/vi/IF5n5b4Fyfw/hqdefault.jpg)](https://youtu.be/IF5n5b4Fyfw)
+      
+7. **Remove the background service**
+    ```shell
+    cd~/Library/LaunchAgents/
+    rm com.<username>.auto-sync-zshrc.plist 
+    ```
 
 ## Tokens, Credentials, Secrets
 - You should store your private tokens, secrets in other files, such as `secrets.sh`, and load them by adding `source secrets.sh` into `.zshrc` file. Even though our repository is private, but you might accidentally publish it or in case Github is hacked, your credentials won't be leaked.
