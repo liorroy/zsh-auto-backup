@@ -68,7 +68,7 @@ Follow these steps to automatically sync your `.zshrc` with the remote repositor
   
     Notes: Remember to select `UserAgents` in the top left button of the LaunchControl application.
 7. **Verify that our scripts are working properly**
-    - Change `~/.zshrc` or `~/.zsh/` and verify that our changes are committed and pushed automatically to the remote repository.
+    - Change `~/.zshrc` or `~/.zsh/` and verify that our changes are committed and pushed automatically to the remote repository:
 
       [![Watch the demo video](https://img.youtube.com/vi/IF5n5b4Fyfw/hqdefault.jpg)](https://youtu.be/IF5n5b4Fyfw)
 
