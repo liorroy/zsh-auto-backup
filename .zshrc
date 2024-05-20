@@ -7,13 +7,15 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+#T
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-#Java setup (jdk version 22.0.1 #Testing script 2!)
+#Java setup (jdk version 22.0.1)
 export JAVA_HOME=$(/usr/libexec/java_home -v 22.0.1)
 export PATH=$JAVA_HOME/bin:$PATH
 
