@@ -1,9 +1,6 @@
 # ZSH configuration file (.zshrc) Auto backup to Git 
-This repository will help you to utilize `fswatch` and `launchd` in order to get your ZSH configuration file (.zshrc) synced with a git remote repository automatically.
+This repository will help you to utilize [fswatch](https://github.com/emcrisostomo/fswatch) and [launchd](https://support.apple.com/en-vn/guide/terminal/apdc6c1077b-5d5d-4d35-9c19-60f2397b2369/mac) in order to get your ZSH configuration file (.zshrc) synced with a Git remote repository automatically.
 
-Documentation: 
-[launchd](https://support.apple.com/en-vn/guide/terminal/apdc6c1077b-5d5d-4d35-9c19-60f2397b2369/mac)
-[fswatch](https://github.com/emcrisostomo/fswatch)
 
 ## Quick Start
 Follow these steps to automatically sync your `.zshrc` with the remote repository.
