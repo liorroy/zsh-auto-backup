@@ -63,7 +63,8 @@ Follow these steps to automatically sync your `.zshrc` with the remote repositor
         ```shell
         brew install --cask launchcontrol
         ```
-    4. If you open the LaunchControl application and see all fields are green in `com.<username>.auto-sync-zshrc.plist` then congratulations, now all of your ZSH run configurations are synced automatically with the remote repository. Example:
+    4. If you open the LaunchControl application and see all fields are green in `com.<username>.auto-sync-zshrc.plist` then congratulations, now all of your ZSH run configurations are synced automatically with the remote repository. Example: <img width="1512" alt="image" src="https://github.com/liorroy/zsh-backup/assets/43315313/213c9401-d046-404d-bbdd-4992b392d166">
+
   
     Notes: Remember to select `UserAgents` in the top left button of the LaunchControl application.
 7. **Verify that our scripts are working properly**
