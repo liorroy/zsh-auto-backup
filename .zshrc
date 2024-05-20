@@ -13,7 +13,7 @@ fi
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-#Java setup (jdk version 22.0.1 #Testing 22)
+#Java setup (jdk version 22.0.1 #Testing 2321414212)
 export JAVA_HOME=$(/usr/libexec/java_home -v 22.0.1)
 export PATH=$JAVA_HOME/bin:$PATH
 
