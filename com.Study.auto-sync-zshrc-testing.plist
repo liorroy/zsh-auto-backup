@@ -13,9 +13,9 @@
 		<string>/Users/Study/code/zsh-backup/sync_zshrc.sh</string>
 	</array>
 	<key>StandardOutPath</key>
-	<string>/Users/Study/tmp/com.imbaggaarm.sync-zshrc.stdout</string>
+	<string>/Users/Study/tmp/com.Study.sync-zshrc.stdout</string>
 	<key>StandardErrorPath</key>
-	<string>/Users/Study/tmp/com.imbaggaarm.sync-zshrc.stderr</string>
+	<string>/Users/Study/tmp/com.Study.sync-zshrc.stderr</string>
 	<key>WorkingDirectory</key>
 	<string>/Users/Study/code/zsh-backup</string>
 	<key>KeepAlive</key>

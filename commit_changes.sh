@@ -8,5 +8,5 @@ cp -R $HOME/.zsh .
 
 git add --all
 git commit -m "Sync zsh configs"
-git push origin
+git push
 
